@@ -13,8 +13,8 @@ const keys = [
 			"lamaj7",
 			"sim",
 			"sim7",
-			"C#m",
-			"C#m7",
+			"do#m",
+			"do#m7",
 			"D",
 			"Dmaj7",
 			"E",
@@ -34,11 +34,11 @@ const keys = [
 			"G#m",
 			"G#m7",
 			"la",
-			"Amaj7",
+			"lamaj7",
 			"si",
 			"si7",
-			"C#m",
-			"C#m7",
+			"do#m",
+			"do#m7",
 			"D#dim"
 		]
 	},
@@ -47,8 +47,8 @@ const keys = [
 		chords: [
 			"si",
 			"simaj7",
-			"C#m",
-			"C#m7",
+			"do#m",
+			"do#m7",
 			"D#m",
 			"D#m7",
 			"E",
@@ -69,8 +69,8 @@ const keys = [
 			"labm7",
 			"sibm",
 			"sibm7",
-			"Cb",
-			"Cbmaj7",
+			"dob",
+			"dobmaj7",
 			"Db",
 			"Db7",
 			"Ebm",
@@ -93,7 +93,7 @@ const keys = [
 			"lab7",
 			"sibm",
 			"sibm7",
-			"Cdim"
+			"dodim"
 		]
 	},
 	{
@@ -103,8 +103,8 @@ const keys = [
 			"labmaj7",
 			"sibm",
 			"sibm7",
-			"Cm",
-			"Cm7",
+			"dom",
+			"dom7",
 			"Db",
 			"Dbmaj7",
 			"Eb",
@@ -127,8 +127,8 @@ const keys = [
 			"labmaj7",
 			"sib",
 			"sib7",
-			"Cm",
-			"Cm7",
+			"dom",
+			"dom7",
 			"Ddim"
 		]
 	},
@@ -137,8 +137,8 @@ const keys = [
 		chords: [
 			"sib",
 			"sibmaj7",
-			"Cm",
-			"Cm7",
+			"dom",
+			"dom7",
 			"Dm",
 			"Dm7",
 			"Eb",
@@ -161,18 +161,18 @@ const keys = [
 			"lam7",
 			"sib",
 			"sibmaj7",
-			"C",
-			"C7",
+			"do",
+			"do7",
 			"Dm",
 			"Dm7",
 			"Edim"
 		]
 	},
 	{
-		name: "C",
+		name: "do",
 		chords: [
-			"C",
-			"Cmaj7",
+			"do",
+			"domaj7",
 			"Dm",
 			"Dm7",
 			"Em",
@@ -195,8 +195,8 @@ const keys = [
 			"lam7",
 			"sim",
 			"sim7",
-			"C",
-			"Cmaj7",
+			"do",
+			"domaj7",
 			"D",
 			"D7",
 			"Em",
@@ -219,15 +219,15 @@ const keys = [
 			"la7",
 			"sim",
 			"sim7",
-			"C#dim"
+			"do#dim"
 		]
 	}
 ];
 const mKeys = [
 	{
-		name: "C#m",
+		name: "do#m",
 		chords: [
-			"C#m",
+			"do#m",
 			"E",
 			"Emaj7",
 			"F#m",
@@ -240,7 +240,7 @@ const mKeys = [
 			"lamaj7",
 			"si",
 			"si7",
-			"C#m7",
+			"do#m7",
 			"D#dim"
 		]
 	},
@@ -250,8 +250,8 @@ const mKeys = [
 			"G#m",
 			"si",
 			"Bmaj7",
-			"C#m",
-			"C#m7",
+			"do#m",
+			"do#m7",
 			"D#m",
 			"D#m7",
 			"D#",
@@ -277,8 +277,8 @@ const mKeys = [
 			"sibm7",
 			"sib",
 			"sib7",
-			"Cb",
-			"Cbmaj7",
+			"dob",
+			"dobmaj7",
 			"Db",
 			"Db7",
 			"Fdim"
@@ -301,7 +301,7 @@ const mKeys = [
 			"Gbmaj7",
 			"lab",
 			"lab7",
-			"Cdim"
+			"dodim"
 		]
 	},
 	{
@@ -313,10 +313,10 @@ const mKeys = [
 			"labmaj7",
 			"sibm",
 			"sibm7",
-			"Cm",
-			"Cm7",
-			"C",
-			"C7",
+			"dom",
+			"dom7",
+			"do",
+			"do7",
 			"Db",
 			"Dbmaj7",
 			"Eb",
@@ -325,10 +325,10 @@ const mKeys = [
 		]
 	},
 	{
-		name: "Cm",
+		name: "dom",
 		chords: [
-			"Cm",
-			"Cm7",
+			"dom",
+			"dom7",
 			"Eb",
 			"Ebmaj7",
 			"Fm",
@@ -351,8 +351,8 @@ const mKeys = [
 			"Gm7",
 			"sib",
 			"sibmaj7",
-			"Cm",
-			"Cm7",
+			"dom",
+			"dom7",
 			"Dm",
 			"Dm7",
 			"D",
@@ -379,8 +379,8 @@ const mKeys = [
 			"la7",
 			"sib",
 			"sibmaj7",
-			"C",
-			"C7",
+			"do",
+			"do7",
 			"Edim"
 		]
 	},
@@ -389,8 +389,8 @@ const mKeys = [
 		chords: [
 			"lam",
 			"lam7",
-			"C",
-			"Cmaj7",
+			"do",
+			"domaj7",
 			"Dm",
 			"Dm7",
 			"Em",
@@ -417,8 +417,8 @@ const mKeys = [
 			"sim7",
 			"si",
 			"si7",
-			"C",
-			"Cmaj7",
+			"do",
+			"domaj7",
 			"D",
 			"D7",
 			"F#dim"
@@ -441,7 +441,7 @@ const mKeys = [
 			"Gmaj7",
 			"la",
 			"la7",
-			"C#dim"
+			"do#dim"
 		]
 	},
 	{
@@ -453,10 +453,10 @@ const mKeys = [
 			"lamaj7",
 			"sim",
 			"sim7",
-			"C#m",
-			"C#m7",
-			"C#",
-			"C#7",
+			"do#m",
+			"do#m7",
+			"do#",
+			"do#7",
 			"D",
 			"Dmaj7",
 			"E",
