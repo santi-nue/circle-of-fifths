@@ -267,7 +267,7 @@ const mKeys = [
 	{
 		name: "mibm/re#m",
 		chords: [
-			"mibm/D#m",
+			"mibm/re#m",
 			"mibm7",
 			"solb",
 			"solbmaj7",
