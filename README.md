@@ -1,6 +1,9 @@
 
 ![Circle of Fifths](circle_of_fifths.svg) 
 
+![major](major.svg) 
+
+![minor](minor.svg) 
 
 # Circle of Fifths Application
 
