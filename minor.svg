@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <!-- White keys -->
+  <rect x="0" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="40" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="80" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="120" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="160" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="200" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="240" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="280" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="320" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="360" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="400" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="440" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="480" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="520" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="560" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="600" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="640" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="680" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="720" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+ <rect x="760" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  <rect x="800" y="0" width="40" height="200" fill="white" stroke="black" stroke-width="2"/>
+  
+  <!-- Black keys -->
+  <rect x="30" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="70" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="110" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="150" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="190" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="230" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="270" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="310" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="350" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="390" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="430" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="470" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="510" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="550" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="590" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="630" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="670" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="710" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  <rect x="750" y="0" width="20" height="140" fill="black" stroke="black" stroke-width="2"/>
+  
+  <!-- Solfège Notation -->
+  <text x="10" y="180" font-family="Arial" font-size="12" text-anchor="middle">Do</text>
+  <text x="50" y="180" font-family="Arial" font-size="12" text-anchor="middle">Re</text>
+  <text x="90" y="180" font-family="Arial" font-size="12" text-anchor="middle">Mi</text>
+  <text x="130" y="180" font-family="Arial" font-size="12" text-anchor="middle">Fa</text>
+  <text x="170" y="180" font-family="Arial" font-size="12" text-anchor="middle">Sol</text>
+  <text x="210" y="180" font-family="Arial" font-size="12" text-anchor="middle">La</text>
+  <text x="250" y="180" font-family="Arial" font-size="12" text-anchor="middle">Si</text>
+  <text x="290" y="180" font-family="Arial" font-size="12" text-anchor="middle">Do</text>
+  <text x="330" y="180" font-family="Arial" font-size="12" text-anchor="middle">Re</text>
+  <text x="370" y="180" font-family="Arial" font-size="12" text-anchor="middle">Mi</text>
+  <text x="410" y="180" font-family="Arial" font-size="12" text-anchor="middle">Fa</text>
+  <text x="450" y="180" font-family="Arial" font-size="12" text-anchor="middle">Sol</text>
+  <text x="490" y="180" font-family="Arial" font-size="12" text-anchor="middle">La</text>
+  <text x="530" y="180" font-family="Arial" font-size="12" text-anchor="middle">Si</text>
+  <text x="570" y="180" font-family="Arial" font-size="12" text-anchor="middle">Do</text>
+  <text x="610" y="180" font-family="Arial" font-size="12" text-anchor="middle">Re</text>
+  <text x="650" y="180" font-family="Arial" font-size="12" text-anchor="middle">Mi</text>
+  <text x="690" y="180" font-family="Arial" font-size="12" text-anchor="middle">Fa</text>
+  <text x="730" y="180" font-family="Arial" font-size="12" text-anchor="middle">Sol</text>
+  <text x="770" y="180" font-family="Arial" font-size="12" text-anchor="middle">La</text>
+  
+  <!-- Highlighting the Minor Chords -->
+  
+  <!-- C minor -->
+  <rect x="0" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="160" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="240" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- C# minor -->
+  <rect x="40" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="200" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="280" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- D minor -->
+  <rect x="80" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="240" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="320" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- D# minor -->
+  <rect x="120" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="280" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="360" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- E minor -->
+  <rect x="160" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="320" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="400" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- F minor -->
+  <rect x="200" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="360" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="440" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- F# minor -->
+  <rect x="240" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="400" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="480" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- G minor -->
+  <rect x="280" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="440" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="520" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- G# minor -->
+  <rect x="320" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="480" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="560" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- A minor -->
+  <rect x="360" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="520" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="600" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  
+  <!-- A# minor -->
+  <rect x="400" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="560" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+  <rect x="640" y="0" width="40" height="200" fill="blue" opacity="0.6" stroke="black" stroke-width="2"/>
+</svg>
