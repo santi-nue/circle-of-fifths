@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <!-- Circle background -->
+  <circle cx="150" cy="150" r="140" fill="none" stroke="black" stroke-width="2" />
+  
+  <!-- Text for Do, Re, Mi, etc. -->
+  <text x="150" y="30" font-family="Arial" font-size="12" text-anchor="middle">Do</text>
+  <text x="205" y="50" font-family="Arial" font-size="12" text-anchor="middle">Re</text>
+  <text x="245" y="100" font-family="Arial" font-size="12" text-anchor="middle">Mi</text>
+  <text x="250" y="150" font-family="Arial" font-size="12" text-anchor="middle">Fa</text>
+  <text x="245" y="200" font-family="Arial" font-size="12" text-anchor="middle">Sol</text>
+  <text x="205" y="250" font-family="Arial" font-size="12" text-anchor="middle">La</text>
+  <text x="150" y="270" font-family="Arial" font-size="12" text-anchor="middle">Si</text>
+  <text x="95" y="250" font-family="Arial" font-size="12" text-anchor="middle">Do</text>
+  <text x="55" y="200" font-family="Arial" font-size="12" text-anchor="middle">Re</text>
+  <text x="50" y="150" font-family="Arial" font-size="12" text-anchor="middle">Mi</text>
+  <text x="55" y="100" font-family="Arial" font-size="12" text-anchor="middle">Fa</text>
+  <text x="95" y="50" font-family="Arial" font-size="12" text-anchor="middle">Sol</text>
+  
+  <!-- Connecting lines to form the circle -->
+  <line x1="150" y1="150" x2="150" y2="30" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="205" y2="50" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="245" y2="100" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="250" y2="150" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="245" y2="200" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="205" y2="250" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="150" y2="270" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="95" y2="250" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="55" y2="200" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="50" y2="150" stroke="black" stroke-width="1"/>
+12/29/24, 11:29 - +18002428478: <line x1="150" y1="150" x2="55" y2="100" stroke="black" stroke-width="1"/>
+  <line x1="150" y1="150" x2="95" y2="50" stroke="black" stroke-width="1"/>
+</svg>
