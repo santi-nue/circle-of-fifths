@@ -1,3 +1,7 @@
+
+![Circle of Fifths](circle_of_fifths.svg) 
+
+
 # Circle of Fifths Application
 
 This application is a visual and interactive representation of the Circle of Fifths, a fundamental concept in music theory that illustrates the relationships between different musical keys. It is designed to help musicians, students, and enthusiasts understand and explore the connections between keys, including major and minor parallels, as well as to display the chords associated with a selected key.
